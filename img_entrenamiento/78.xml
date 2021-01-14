@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>78.jpeg</filename>
+	<path>/home/adriana/deteccion_objetos/images/78.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>361</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Adriana</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>194</ymin>
+			<xmax>251</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
